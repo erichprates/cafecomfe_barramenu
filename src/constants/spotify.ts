@@ -1,0 +1,4 @@
+export const SPOTIFY_CONFIG = {
+  CLIENT_ID: '9137c704957848bda870b5e35a55943e',
+  CLIENT_SECRET: '4f41e3e4ea1a4394b129fa1dd9177a6f',
+} as const;
